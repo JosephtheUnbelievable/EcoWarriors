@@ -1,0 +1,39 @@
+Day,Weekday,Main Dish,Dish 1,Dish 2,Dish 3,Dish 4,Soup,Inspector(s),Measured Weight (kg),Type of Cuisine,Contains Soup?,Has Fried Food?,Has Rice?,Has Sauce?,Has Chicken?,Has Pork?,Has Eggs?,Price
+2,Monday,Sweet potato rice,Kimchi Pork,Basil Eggplant,Corn Steamed Egg,Vegetable,Sliced Pork & Pickled Veggie Soup,Jerry,17.11,Korean,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+3,Tuesday,Pasta,"Smoked-chicken Pasta with Cream
+Sauce","Mashed Potatoes
+with Gravy",Garlic Bread,Vegetable,Borscht,Benjamin,13.58,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+4,Wednesday,Brown Rice,Curry Pork,"Minced Pork with (Mungbean) Glass
+Noodles","Stir-fired
+Cucumber with Fish Cakes",Vegetable,Bitter Gourd Chicken Soup,Benjamin,18.48,Indian,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+5,Thursday,Rice,Fermented Bean Curd with Chicken,Bacon Onion Scrabled Egg,"Stir-Fried Beancurd with
+Bean Sprouts",Vegetable,Winter Melon Meat Ball Soup,Benjamin,13.87,Western,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+6,Friday,Hakka Rice Noodles,Mushroom and Pork Rice Noodles,"Boiled Sliced Pork Spiced Corned Egg
+Meat Balls",Braised Assorted Goods,Vegetable,,Benjamin,30.36,Chinese,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+9,Monday,Rice,Honey Chicken,Fried Capelin Fish,Stir-fried Celery & Squid Balls,Vegetable,Egg and Seaweed Soup,Benjamin,18.50,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+10,Tuesday,Purple rice,Cumin Pork Ribs,Scrambled Eggs with Corn,"Radish with Wheat Gluten
+Rolls","Radish with Wheat Gluten
+Rolls",Tofu Miso Soup,Benjamin,15.46,Chinese,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+11,Wednesday,Spiced Rice,Chicken Potato Gratin,Onion Rings,Potato Eggs,Vegetable,Corn and Radish Soup,Benjamin,15.45,Western,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+12,Thursday,Rice,Roasted Pork with Perilla Plum,Deep-fried Tofu,"Deep-fired Egg Crisps with Napa
+Cabbage",Vegetable,Green Papaya Pork Rib Soup,"Will, Brian",16.04,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+13,Friday,Noodles,Tomato Beef Noodle Soup,Braised Assorted Goods,Pickled Vegetables,Vegetable,,"Olivia, Austin",36.86,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+18,Wednesday,Rice,"Red Vinasse
+Chicken Chunks","Stir-fried Zucchini
+& Sausage",Carrot Scrambled Eggs,Vegetable,Mushroom and Chicken Soup,Benjamin,14.19,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+19,Thursday,Rice,"Pork over Rice
+(Donburi)","Fresh Shroom with
+Caulifower",Black-Pepper Tofu,Vegetable,White Radish Fish Ball Soup,"Eva, Will, Brian",13.56,Chinese,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+20,Friday,Ramen,Kimchi Chicken Thigh Ramen,Braised Assorted Goods,Hard Boiled Egg Corn Kernels,Vegetable,,"Olivia, Austin",35.00,Japanese,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+23,Monday,Brown Rice,"Roast Pork with
+Radish",Stir-fried Ham & Corn,Steamed Egg with Mushroom,Vegetable,Garlic Chicken Soup,Benjamin,17.41,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,FALSE
+24,Tuesday,Rice,Chinese Pickled Cucumber Chicken,Shrimp Vermicelli Eastern Casserole,"Celery Beancurd
+Pouches",Vegetable,"Pork Soup with Pickled
+Mustard","Eva, Will, Brian",15.43,Chinese,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+25,Wednesday,Purple Rice,"Sweet and Sour
+Pork Ribs",Scrambled Eggs with Tomatoes,Fried Courgette with Dried Shrimp,Vegetable,Winter Melon Soup,"Eva, Will, Brian",18.18,Chinese,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+26,Thursday,Spaghetti,Basil chicken with Tomato Sauce,Hash Brown,Pumpkin Gratin,Vegetable,Corn Soup,Benjamin,16.53,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+27,Friday,Porridge,Preserved Egg Lean Meat Porridge,"Bonito Tofu Cold Dish
+Fried Dough Sticks",Red bean Dates & Meat floss,Vegetable,,"       Olivia, Austin",17.45,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+30,Monday,Rice,Beef Fillet with Spring Onion,"Sacha Thick Glass
+Noodle",Pepper salt Deep- fried Fish Cake,Vegetable,Pork Ribs Soup with Radish,Benjamin,17.70,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE

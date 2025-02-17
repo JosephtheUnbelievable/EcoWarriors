@@ -1,0 +1,27 @@
+Day,Weekday,Main Dish,Dish 1,Dish 2,Dish 3,Dish 4,Soup,Inspector(s),Measured Weight (kg),Type of Cuisine,Contains Soup?,Has Fried Food?,Has Rice?,Has Sauce?,Has Chicken?,Has Pork?,Has Eggs?
+6,Monday,法國麵包/茄汁肉醬 Frenc bread/Tomato meat sauce,焗烤義大利麵 Pasta gratin,匈牙利烤雞 Hungarian roast chicken,牧羊人派 Shepherds pie,Vegetable,可樂 Cola,,,,,,,,,,
+7,Tuesday,Rice,BBQ炒肉片 BBQ Fried pork slices,▲西芹炒鮮魷 Fried squid with celery,山藥捲 Yam roll,Vegetable,大瓜貢丸湯 Winter melon meat ball soup,Lunch Lady,15.27,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+8,Wednesday,Spaghetti,"波隆那肉醬義大利麵(牛)
+ Bologna spaghetti",麥克雞塊 Chicken nuggets,●○焗烤奶油地瓜 Creamy sweet potato gratin,Vegetable,洋蔥濃湯 Onion soup,Lunch Lady,16.48,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+9,Thursday,Purple Rice,鹽酥雞 Salted chicken,白菜滷 Chinese cabbage,★菜脯炒蛋 Scrambled eggs with preserved radish,Vegetable,酸菜肉片湯 Sliced Pork and Pickled Vegetable Soup,Lunch Lady,14.82,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+10,Friday,Noodles,榨菜肉絲麵 Mustard pork noodles,蒜味蘿蔔糕 Garlic carrot cake,★中式滷味 Braised assorted foods,Vegetable,,Lunch Lady,34.19,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+13,Monday,糙米飯 Brown Rice,"糖醋雞丁 Sweet and sour
+ chicken",★三色蛋 Three color egg,紅燒桂竹筍 Braised gui bamboo soots,Vegetable,青木瓜排骨湯 Green papaya pork rib soup,Lunch Lady,14.67,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+14,Tuesday,Rice,豬肉丼飯 Pork Rice,"鮮菇花椰菜 Fresh mushroom
+ caulifower",黑胡椒豆腐 Black pepper Tofu,Vegetable,香菇雞湯 Mushroom and Chicken Soup,Lunch Lady,15.09,Japanese,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+15,Wednesday,五穀飯 Five grain rice,鷹嘴豆燉辣雞肉 Spicy chicken stew with chickpeas,★○起司炒蛋 Scrambied egg with cheese,春捲 Spring rolls,Vegetable,玉米蘿蔔湯 Corn and radish soup,Lunch Lady,12.53,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+16,Thursday,Rice,"馬鈴薯燉排骨 Potato braised pork
+ ribs",辣炒年糕 Spicy rice cake,"雜菜冬粉 Mixed vegetable
+ vermicelli",Vegetable,▲味增豆腐湯 Miso Tofu Soup,Jerry,20.03,Chinese,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+17,Friday,Noodles,蔥燒牛肉麵 Beef soup,★中式滷味 Braised assorted foods,酸菜 pickled vegetables,Vegetable,,Olivia,38.45,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+20,Monday,"地瓜飯 Sweet potato
+ rice","宮保雞丁 Spicy Stir Fried
+ Chicken",★番茄炒蛋 Scrambled Eggs with Tomatoes,螞蟻上樹 Minced Winter Noodles,Vegetable,冬瓜貢丸湯 Winter Melon Meatballs Soup,Lunch Lady,16.15,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE
+21,Tuesday,糙米飯 Brown Rice,咖哩豬 Curry Pork,"豆芽炒豆包 Fried bean bun with
+ bean sprouts",塔香茄子 Tarxiang eggplant,Vegetable,"★紫菜蛋花湯 Egg and seaweed
+ soup",Lunch Lady,15.66,Japanese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
+22,Wednesday,Spaghetti,番茄蘿勒雞肉 Basil chicken Tomato Sauce,玉米餅(莎莎醬) Corn tortilla with Salsa,洋蔥圈 Onion rings,Vegetable,●★玉米濃湯 Corn Soup,Lunch Lady,16.15,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+23,Thursday,油飯 Fried rice,▲櫻花蝦油飯 Sakura shrimp rice,"獅子頭白菜滷 Lion head cabbage
+ braised","▼炸湯圓 Fried glutinous
+ rice balls",Vegetable,刈菜雞湯 Vegetable chicken soup,Lunch Lady,13.28,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+24,Friday,Udon Noodles,味增烏龍麵 Miso udon,唐揚炸雞 Chicken Karaage,筍乾/★水煮蛋 Dried bamboo shoots/egg,Vegetable,,Lunch Lady,34.83,Japanese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE

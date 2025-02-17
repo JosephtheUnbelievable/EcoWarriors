@@ -1,0 +1,47 @@
+Day,Weekday,Main Dish,Dish 1,Dish 2,Dish 3,Dish 4,Soup,Inspector(s),Measured Weight (kg),Type of Cuisine,Has Fried Food?,Has Rice?,Has Sauce?,Has Chicken?,Has Pork?
+1,Tuesday,白飯 Rice,BBQ炒肉片 BBQ Fried Pork Slices,★菜脯炒蛋 Scrambled Eggs with dried radish,香菇豆腐煲 Mushroom Tofu Casserole,時蔬 Vegetable,鳳梨苦瓜雞湯 Bitter Gourd Chicken Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+2,Wednesday,糙米飯 Brown Rice,咖哩雞 Chicken Curry,涼拌金針菇 Enoki Shrooms Cold Dish,春捲 Spring Rolls,時蔬 Vegetable,"酸菜肉片湯
+ Sliced Pork Soup with Pickled Mustard Green",,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+3,Thursday,義大利麵 Spaghetti,"波隆那(牛)肉醬義大利麵
+ Bologna Spaghetti",麥克雞塊 Chicken Nuggets,"●○焗烤奶油地瓜 Creamy
+ Sweet Potato Gratin",時蔬 Vegetable,洋蔥濃湯 Onion Soup,,,Italian,FALSE,FALSE,FALSE,FALSE,FALSE
+4,Friday,烏龍麵 Udon Noodles,稻禾烏龍麵 Daohe Udon Noodles,唐揚炸雞 Chicken Karaage (Deep-Fried),油豆腐/★水煮蛋/海苔絲 Tofu / Egg / Seaweed,時蔬 Vegetable,,,,Japanese,FALSE,FALSE,FALSE,FALSE,FALSE
+7,Monday,白飯 Rice,鷹嘴豆燉辣豬肉 Spicy Pork Stew with Chickpeas,"●★起司蒸蛋 Steamed Egg with
+ Cheese",○●焗烤白菜 Cabbage Gratin,時蔬 Vegetable,大瓜貢丸湯 Winter Melon Meat Ball Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+8,Tuesday,紫米飯 Purple Rice,糖醋雞丁 Sweet & Sour Chicken,"蘿蔔滷雙結 Braised Radish & Double Knots
+ (Seaweed&Tofu Skin)","火腿玉米粒 Cubed Ham
+ and Corn Kernels",時蔬 Vegetable,★紫菜蛋花湯 Egg-Drop Seaweed Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+9,Wednesdayd,白飯 Rice,"薑汁燒肉 Braised Pork with
+ Ginger Sauce","螞蟻上樹 Minced Pork
+ w/ Glass Noodles",★木耳炒蛋 Fried Egg with Black Woodears,時蔬 Vegetable,剝皮辣椒雞湯 Pickled Peeled Chili Chicken Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+14,Monday,白飯 Rice,"筍乾扣肉 Braised Pork Belly
+ with Dried Bamboo Shoots",★鮮菇蒸蛋 Steamed Egg with Mushroom,塔香茄子 Basil Eggplant,時蔬 Vegetable,青木瓜排骨湯 Green Papaya Pork Rib Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+15,Tuesday,五穀飯 Five Grain Rice,葡萄酒燉雞 Wine Braised Chicken,老皮嫩肉 Braised Egg Tofu,"西芹炒鮮菇 Fresh Mushroom
+ with Celery",時蔬 Vegetable,玉米蘿蔔湯 Corn & Radish Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+16,Wednesday,白飯 Rice,蘑菇肉片 Mushroom Pork,紅燒桂竹筍 Braised Gui Bamboo Shoots,"地瓜球 Deep-Fried Sweet
+ Potato Balls",時蔬 Vegetable,香菇雞湯 Mushroom and Chicken Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+17,Thursday,白飯 Rice,"三杯雞
+ Three-Cup Chicken",★番茄炒蛋 Scrambled Eggs with Tomatoes,"鮮菇花椰菜 Sautéed Fresh Mushroom w/
+ Caulifower",時蔬 Vegetable,▲蘿蔔魚丸湯 White Radish Fish Ball Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+18,Friday,白麵 Plain Noodles,蔥燒牛肉麵 Beef Noodle Soup,★中式滷味 Braised Assorted Goods,"酸菜 Pickled
+ Mustard Green",時蔬 Vegetable,,,,Chinese,FALSE,FALSE,FALSE,FALSE,FALSE
+21,Monday,糙米飯 Brown Rice,馬鈴薯燉肉 Slow-Cooked Pork & Potato,"▲開陽白菜 Stir-fried
+ Napa Cabbage","脆皮馬蹄條 Deep-Fried
+ Water Chestnuts",時蔬 Vegetable,蒜頭雞湯 Garlic Chicken Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+22,Tuesdaye .,義大利麵 Spaghetti,鮮菇松露雞肉 Chicken with mushrooms truffles Sauce,薯條 French Fries,○●焗烤南瓜 Pumpkin Gratin,時蔬 Vegetable,羅宋湯 Borscht,,,Italian,FALSE,FALSE,FALSE,FALSE,FALSE
+23,Wednesday,白飯 Rice,紅燒牛腩 Braised Beef Brisket,★海芽滑蛋 Seaweed Smooth Omelette,塔香甜不辣 Basil Fish Cake Sticks,時蔬 Vegetable,冬瓜貢丸湯 Winter Melon Meatballs Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+24,Thursday,白飯 Rice,"鼓汁豬排 Black Beanbraised
+ Pork Chops","培根雙花 Sautéed Broccoli & Cauliflower
+ with Bacon",★玉米蒸蛋 Corn Steamed Egg,時蔬 Vegetable,榨菜肉絲湯 Pork with Sichuan Cabbage Soup,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+25,Friday,油麵 Yellow Noodle,☆皮蛋肉醬麵 Preserved-Egg Meat Sauce Noodles,"炸雞翅 Fried Chicken
+ Wings",★中式滷味 Braised Assorted Goods,時蔬 Vegetable,▲味增豆腐湯 Miso Tofu Soup,,,Chinese,FALSE,FALSE,FALSE,FALSE,TRUE
+28,Monday,"地瓜飯 Sweet Potato
+ Rice","宮保雞丁 Spicy Stir Fried
+ Chicken",沙茶寬粉 Sacha Glass Noodle,咖哩豆腐 Curry Tofu,時蔬 Vegetable,"★玉米蛋花湯 Corn and Egg Drop
+ Soup",,,Chinese,FALSE,TRUE,FALSE,FALSE,FALSE
+29,Tuesday,紫米飯 Purple Rice,黑胡椒豬柳 Black Pepper Pork Tenderloin,▲★蟹肉蒸蛋 Steamed Egg with Crab Meat,紅燒冬瓜 Steam Melon,時蔬 Vegetable,"蘿蔔排骨湯 Pork Ribs Soup with
+ Radish",,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE
+30,Wednesday,白飯 Rice,蜂蜜雞翅 Honey Fried Chicken Wings,▲柴魚蘿蔔 Dashi Braised Radish,"雜菜冬粉 Mixed Vegetable
+ Vermicelli",時蔬 Vegetable,★番茄雞蛋豆腐湯 Tomato Egg Tofu Soup,,,American,FALSE,TRUE,FALSE,FALSE,FALSE
+31,Thursday,白飯 Rice,"肉燥飯 Braised Minced
+ Meat Rice",炸豬排 Fried Pork Cutlet,香腸/★滷蛋 Sausage / Braised Corned Egg,時蔬 Vegetable,果汁 Juice,,,Chinese,FALSE,TRUE,FALSE,FALSE,TRUE

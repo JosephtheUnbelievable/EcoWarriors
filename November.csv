@@ -1,0 +1,36 @@
+Day,Weekday,Main Dish,Dish 1,Dish 2,Dish 3,Dish 4,Soup,Inspector(s),Measured Weight (kg),Type of Cuisine,Contains Soup?,Has Fried Food?,Has Rice?,Has Sauce?,Has Chicken?,Has Pork?,Has Eggs?,Price
+1,Friday,拉麵 Ramen,燒肉拉麵 Miso Yakiniku Ramen,▼花生銀絲卷 Peanut Silver Roll,筍乾 / ★白煮蛋 Dried Bamboo Shoots & Hard-Boiled Egg,時蔬 Vegetable,,Lunch Lady,34.50,Japanese,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,
+4,Monday,白飯 Rice,泡菜雞肉 Kimchi Chicken,▲酥炸柳葉魚 Fried Fish,"小瓜炒香腸
+Stir-fried Zucchini & Sausages",時蔬 Vegetable,"酸菜肉片湯 Sliced Pork & Pickled Mustard
+Soup",Lunch Lady,18.43,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,
+5,Tuesday,薑黃飯 Turmeric Rice,手撕豬肉 Pulled Pork,★○起司炒蛋 Scrambled Egg with Cheese,"杏鮑菇炒毛豆 Fried edamame with
+king oyster mushrooms",時蔬 Vegetable,巧達濃湯 Chowder Soup,Lunch Lady,16.70,Indian,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,
+6,Wednesday,紫米飯 Purple Rice,鹽酥雞 Salted Chicken,豆鼓鮮蚵豆腐 Black Bean cooked Oyster and Tofu,白菜滷 Slow-cooked Napa Cabbage,時蔬 Vegetable,大瓜貢丸湯 Winter Melon Meat Ball Soup,Lunch Lady,15.40,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,
+7,Thursday,糙米飯 Brown Rice,咖哩豬 Curry Pork,"豆芽炒豆包 Fried Tofu Skin with
+Bean Sprouts",★三色蛋 Tri-color Egg,時蔬 Vegetable,鳳梨苦瓜雞湯 Bitter Gourd chicken soup,Lunch Lady,17.20,Japanese,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,
+8,Friday,烏龍麵 Udon Noodles,稻禾烏龍麵 Daohe Udon Noodles,唐揚炸雞 Chicken Karaage,"油豆腐 / ★水煮蛋 /海苔絲
+Tofu / hard-boiled- egg/Seaweed",時蔬 Vegetable,,Lunch Lady,36.80,Japanese,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,
+11,Monday,白飯 Rice,▲香酥魚排 Crispy Fish Steak,"銀芽豬柳 Stir-fried Bean Sprouts w/ Pork
+Strips",★鮮菇蒸蛋 Steamed Egg with Mushroom,時蔬 Vegetable,剝皮辣椒雞湯 Peeled chili chicken soup,Lunch Lady,18.95,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,
+12,Tuesday,白飯 Rice,"香菇燒雞 Fried Chicken With
+Mushroom",★番茄炒蛋 Scrambled Eggs with Tomatoes,什錦大瓜 Assorted Melon,時蔬 Vegetable,青木瓜排骨湯 Green Papaya Pork Rib Soup,Lunch Lady,16.87,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,
+13,Wednesday,"地瓜飯 Sweet Potato
+Rice",水煮肉片 Sichuan Spicy Boiled Sliced Meat,▲西芹炒鮮魷 Fried Squid with Celery,士林香腸 Shilin Sausage,時蔬 Vegetable,"★紫菜蛋花湯 Seaweed
+Egg-Drop Soup",Lunch Lady,18.55,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,
+14,Thursday,義大利麵 Spaghetti,"南瓜雞肉義大利麵
+Pumpkin
+Chicken Pasta","薯條
+French Fries (Chips)",●大蒜麵包 Garlic Bread,時蔬 Vegetable,洋蔥濃湯 Onion Soup,Lunch Lady,17.91,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+15,Friday,油麵 Yellow noodle,"▲花枝羹麵 Noodle Soup with Squid
+Twigs",椒鹽雞捲 Pepper-Salt Chicken Rolls,★中式滷味 Braised Assorted Foods,時蔬 Vegetable,,Lunch Lady,35.50,Chinese,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,
+18,Monday,糙米飯 Brown Rice,豆乳雞丁 Fermented Bean Curd Chicken,螞蟻上樹 Glass Noodles with Fried Minced Pork,"芹菜豆包
+Stir-fried Tofu Skin with Celery",時蔬 Vegetable,★玉米蛋花湯 Corn Kernel & Egg-Drop Soup,"Eva, Will, Brian",9.98,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,
+19,Tuesday,白飯 Rice,鷹嘴豆燉辣豬肉 Spicy Pork Stew with Chickpeas,★馬鈴薯烘蛋 Potato eggs,●焗烤白菜 Cabbage Gratin,時蔬 Vegetable,羅宋湯 Borscht,"Eva, Will, Brian",16.80,Chinese,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,
+20,Wednesday,油麵 Yellow noodle,沙茶海鮮炒麵 Sacha Seafood Fried Noodles,紅糟豬肉 Red Pork Chops,★中式滷味 Braised Assorted Foods,時蔬 Vegetable,▲味增豆腐湯 Miso Tofu Soup,"Eva, Will, Brian",12.26,Chinese,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,
+21,Thursday,紫米飯 Purple rice,迷迭香烤雞 Roast chicken with rosemary,★翡翠蒸蛋 Spinach Steamed Egg,"▲小魚乾豆干 Dried Small Fish and
+Bean Curd",時蔬 Vegetable,冬瓜貢丸湯 Winter Melon Meatballs Soup,Benjamin,23.15,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,
+22,Friday,白麵 Noodles,番茄牛肉麵 Beef Tomato Soup,★中式滷味 Braised Assorted Foods,"酸菜 Pickled Chinese
+Mustard",時蔬 Vegetable,,"Austin, Olivia",34.27,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,
+25,Monday,香料飯 Spice rice,番茄馬鈴薯燉雞 Tomato & Potato Stewed Chicken,"蛋黃芋圓
+Egg Yolk Taro Balls",●★起司蒸蛋 Steamed Egg with Cheese,時蔬 Vegetable,蘿蔔排骨湯 Pork Ribs Raddish Soup,Benjamin,15.48,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,
+26,Tuesday,大亨堡 Hot dog bun,德國香腸 German Sausages,洋蔥/酸黃瓜 Onion/Pickle,肉醬通心麵 Macaroni Bolognese,時蔬 Vegetable,●★玉米濃湯 Corn Soup,"Eva, Will, Brian",9.47,American,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,

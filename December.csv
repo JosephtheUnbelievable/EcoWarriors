@@ -1,0 +1,37 @@
+Day,Weekday,Main Dish,Dish 1,Dish 2,Dish 3,Dish 4,Soup,Inspector(s),Measured Weight (kg),Type of Cuisine,Contains Soup?,Has Fried Food?,Has Rice?,Has Sauce?,Has Chicken?,Has Pork?,Has Eggs?
+2,Monday,水餃(高麗菜) Dumplings,▲酥炸柳葉魚 Fried Fish,黃金泡菜 Golden kimchi,,時蔬 Vegetable,"★酸辣湯 Hot and sour
+soup",Benjamin,12.27,Chinese,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+3,Tuesday,糙米飯 Brown Rice,泡菜雞肉 Kimchi chicken,●★起司蒸蛋 Steamed egg with cheese,小瓜炒香腸 Zucchini sausage,時蔬 Vegetable,"酸菜肉片湯
+Sliced Pork and Pickled Vegetable Soup","Eva, Brian",16.26,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+4,Wednesday,義大利麵 Spaghetti,茄汁肉醬義大利麵 Spaghetti Bolognese,洋蔥圈 Onion rings,○●焗烤南瓜 Pumpkin Gratin,時蔬 Vegetable,巧達濃湯 Chodal Soup,Eva,14.07,Italian,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+5,Thursday,紫米飯 Purple rice,"紅糟雞丁 Red Glutinous
+Chicken",塔香海茸 Durvillea Antartic,毛豆素雞片 Edamame vegetarian chicken,時蔬 Vegetable,大瓜貢丸湯 Winter melon meat ball soup,Benjamin,15.92,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+6,Friday,油麵 Yellow noodle,"排骨酥麵 Pork ribs crispy
+noodles",★滷蛋/貢丸 Spiced corned egg /Gongmaru,"中式滷味 Braised assorted
+foods",時蔬 Vegetable,,"Eva, Brian",34.77,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+9,Monday,五穀飯 Five grain rice,"三杯雞 Three cup sauce
+cooked with chicken",▲西芹炒鮮菇 Fresh mushroom with celery,★番茄炒蛋 Scrambled Eggs with Tomatoes,時蔬 Vegetable,榨菜肉絲湯 pork with Sichuan cabbage soup,Lunch Lady,13.31,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+10,Tuesday,白飯 Rice,"薑汁燒肉 Braised pork with
+ginger sauce",★玉米蒸蛋 Corn steamed egg,香菇豆腐煲 Mushroom tofu casserole,時蔬 Vegetable,玉米蘿蔔湯 Corn and radish soup,Benjamin,15.95,Chinese,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+11,Wednesday,糙米飯 Brown Rice,蔥爆牛柳 Beef fillet with spring onion,▲柴魚蘿蔔 Dashi braised radish,脆皮馬蹄條 Fried Water Chestnuts,時蔬 Vegetable,香菇雞湯 Mushroom and Chicken Soup,Lunch Lady,15.95,Chinese,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+12,Thursday,白飯 Rice,"糖醋排骨 Sweet and sour
+pork ribs",涼拌干絲 Cold dried tofu,★培根洋蔥炒蛋 Eggs with Bacon and Onions,時蔬 Vegetable,青木瓜排骨湯 Green papaya pork rib soup,Lunch Lady,16.88,Chinese,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+13,Friday,油麵 Yellow noodle,哨子麵 Whistle noodles,紅糟豬肉 Red pork chops,蒜味豆干 Garlic dried Tofu,時蔬 Vegetable,▲味增豆腐湯 Miso Tofu Soup,Lunch Lady,35.29,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+16,Monday,五穀飯 Five grain rice,蘑菇肉片 Mushroom pork,椒鹽甜不辣 Fried Tempuro,螞蟻上樹 Minced Winter Noodles,時蔬 Vegetable,★紫菜蛋花湯 Egg and seaweed soup,Benjamin,13.31,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE
+17,Tuesday,白飯 Rice,咖哩雞 Chicken with curry,胡瓜炒蛋 Scrambled eggs with couugette,五味豆腐 Five flavor tofu,時蔬 Vegetable,蘿蔔排骨湯 Pork ribs soup with radish,Jerry,15.87,Japanese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+18,Wednesday,糙米飯 Brown Rice,"蘿蔔燒肉 Roast pork with
+radish","蔥爆豆干 Fried dried tofu
+with green
+onions",火腿玉米粒 Minced  pork and corn kernels,時蔬 Vegetable,冬瓜貢丸湯 Winter Melon Meatballs Soup,"Eva, Brian",12.98,Chinese,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+19,Thursday,義大利麵 Pasta,●奶油燻雞義大利麵  Pasta with Smoked chicken and cream sauce,蒜味法國麵包 Garlice french bread,"薯條
+French Fries (Chips)",時蔬 Vegetable,●★玉米濃湯 Corn Soup,Jerry,16.22,Italian,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+20,Friday,漢堡 Burger,手撕豬肉 Pulled Pork,麥克雞塊 Chicken nuggets,★馬鈴薯沙拉 Potato Salad,時蔬 Vegetable,果汁 Juice,Lunch Lady,10.64,American,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+23,Monday,糙米飯 Brown Rice,白斬雞 Braised Chicken,麻辣鴨血豆腐 Spicy duck blood tofu,★老燒蛋 Lao shaodan,時蔬 Vegetable,▲冬瓜蛤蠣湯 Winter squash clam soup,Lunch Lady,14.28,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+24,Tuesday,刈包 Gua bao,梅干扣肉 Dried prunus Braised pork,★荷包蛋 Egg,"酸菜/▼花生粉/香菜 Pickled vegetables
+/ Peanut powder/ coriander",時蔬 Vegetable,四神湯 Sishen soup,Benjamin,15.49,Chinese,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+25,Wednesday,白飯 Rice,"脆皮燒肉 Crispy roast pork
+belly",油雞 Chicken,老皮嫩肉 Braised Egg Tofu,時蔬 Vegetable,酸菜鴨肉湯 Sauerkraut and duck soup,Benjamin,16.37,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE
+26,Thursday,白飯 Rice,椒麻雞 Pepper chicken,▲▼月亮蝦餅 Moon shrimp cake,★鹹蛋四季豆 Salted egg green beans,時蔬 Vegetable,泰式酸辣湯 Thai hot and sour soup,Lunch Lady,13.93,Chinese,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+27,Friday,麵線 Noodles,薑母鴨 Ginger duck,鴨肉丸/米血/豆皮 Duck meatballs/ Pig blood cake/ bean curd,"玉米筍/凍豆腐/金針菇
+Corn shoots/ Tofu/Flammulina
+enoki",時蔬 Vegetable,,Benjamin,35.12,Chinese,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
